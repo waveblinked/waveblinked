@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm WaveLine</h1>
 
-<!--
-**waveblinked/waveblinked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Software Developer • Automation • Low-Level & High-Level Programming
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I am a developer who enjoys building software, experimenting with different technologies, and exploring how systems work internally.
+
+I work with both low-level and high-level languages and enjoy creating tools, scripts, and applications that automate tasks and solve real problems.
+
+---
+
+## 🚀 Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,cpp,java,python,bash,lua,ts,rust,react,html,docker&theme=dark"/>
+</p>
+
+<p align="center">
+C# • C++ • Java • Python • Bash • Lua • TypeScript • Rust • Html • Docker
+</p>
+
+---
+
+## 🧰 Technologies & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,react,git,linux,docker,vscode&theme=dark"/>
+</p>
+
+---
+
+## 💻 What I Do
+
+- Software Development  
+- Automation & Scripting  
+- Tool Development  
+- Exploring Systems & Programming Concepts  
+
+---
+
+## 🎯 Interests
+
+- Software architecture  
+- System internals  
+- Performance optimization  
+- Building useful developer tools  
+
+---
+
+## 📫 Contact
+
+- Discord: @x0qwv  
+- Telegram: @x0qwv
