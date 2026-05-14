@@ -17,11 +17,11 @@ I work with both low-level and high-level languages and enjoy creating tools, sc
 ## 🚀 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,cpp,java,python,bash,lua,ts,rust,react,html,docker&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cs,cpp,java,python,bash,lua,ts,rust,react,html,go,javascript,haskell&theme=dark"/>
 </p>
 
 <p align="center">
-C# • C++ • Java • Python • Bash • Lua • TypeScript • Rust • Html • Docker
+C# • C++ • Java • Python • Bash • Lua • TypeScript • Rust • Go • JavaScript • Haskell
 </p>
 
 ---
@@ -29,7 +29,7 @@ C# • C++ • Java • Python • Bash • Lua • TypeScript • Rust • Html
 ## 🧰 Technologies & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,react,git,linux,docker,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,react,git,linux,docker,vscode,selenium,supabase,git,cloudflare&theme=dark"/>
 </p>
 
 ---
