@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm WaveLine</h1>
+<h1 align="center">Hi 👋, I'm Wave</h1>
 
 <p align="center">
 Software Developer • Automation • Low-Level & High-Level Programming
