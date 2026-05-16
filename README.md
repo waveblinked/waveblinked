@@ -21,7 +21,7 @@ I work with both low-level and high-level languages and enjoy creating tools, sc
 </p>
 
 <p align="center">
- Python • Bash • Lua • TypeScript • Rust • Go • JavaScript • Haskell
+ Python • Bash •  TypeScript • Rust • Go • JavaScript • Haskell
 </p>
 
 ---
